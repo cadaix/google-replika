@@ -1,0 +1,10 @@
+body {
+  display: block;
+  margin: 8px;
+}
+
+form {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+}
