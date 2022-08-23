@@ -8,3 +8,9 @@ form {
   margin-top: 0em;
   margin-block-end: 1em;
 }
+
+center {
+  display: block;
+  text-align: -webkit-center;
+}
+
